@@ -1,0 +1,7 @@
+-R ./domain Domain
+-R ./monad Monad
+-R ./itree Itree
+-R ./state StateT
+-R ./prob Prob
+-R ./examples Examples
+-docroot itreedomain
